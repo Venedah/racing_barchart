@@ -1,4 +1,4 @@
-**## Racing_barchart**
+**Racing_barchart**
 
 ### Make animated bar and line chart races in Python with matplotlib
 
